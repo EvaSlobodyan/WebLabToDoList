@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> TO DO LIST </title>
+</head>
+
+<body>
+<div id="list">
+<p style="font-size: 230%; font-family: Georgia; color: #CD5C5C">Список дел</p>
+
+
+<form>
+<input type="text" placeholder="Добавить еще дело?" />
+<button type="submit">Добавить</button>
+</form>
+</div>
+
+<div>
+<label>
+<ol>
+<li> <p> <input type="checkbox"> Выгулять собаку &#10060; </p> </li>
+<li> <p> <input type="checkbox"> Постирать вещи &#10060; </p> </li>
+<li> <p> <input type="checkbox"> Прогулять пары &#10060; </p> </li>
+</ol>
+</label>
+</div>
+</body>
+</html>
+
